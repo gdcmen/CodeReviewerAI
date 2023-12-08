@@ -66,11 +66,12 @@ The AI Assisted Software Testing Tool streamlines code analysis, detecting synta
 Requirements
 Ensure your environment is set up with the necessary dependencies. Install the required Python modules using the provided requirements.txt file:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 Here is the list of modules included in the requirements.txt file:
 
+```bash
 aiohttp==3.8.6
 aiosignal==1.3.1
 async-timeout==4.0.3
@@ -105,7 +106,7 @@ typing_extensions==4.8.0
 tzdata==2023.3
 urllib3==2.0.7
 yarl==1.9.2
-
+```
 
 ## Contributing
 
